@@ -1,0 +1,6 @@
+-Ini adalah sebuah plugin artikel rekomendasi
+-cara menggunakan plugin ini cukup mudah
+-aktivkanlah plugin ini 
+-buatlah sebuah post
+-masukan kode [artikel-rekomendasi]
+-buatlah tag di post yang anda buat
